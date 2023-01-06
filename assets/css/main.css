@@ -189,12 +189,12 @@ strong, bold, b{
 .post-content > p + p,
 .post-content .thumb + p,
 .post-content aside + p{
-  text-indent:1.65em;
+  text-indent: 0;
 }
 
 .post-content p{
-  margin-bottom:0em;
-  -webkit-margin-after: 0em;
+  margin-bottom: 1em;
+  -webkit-margin-after: 1em;
 }
 
 

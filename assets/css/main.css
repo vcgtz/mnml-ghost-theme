@@ -776,7 +776,7 @@ nav button {
 .page-title {
   text-align:left;
   display:inline-block;
-  float:left;
+  float: left;
   color: #444;
   text-transform: none;
   font-weight: 400;
@@ -793,8 +793,9 @@ nav button {
   font-style: italic;
   font-weight: 200;
   color:slategray;
-  display:inline-block;
-  float:left;
+  display: inline-block;
+  float: left;
+  width: 100%;
   padding:1.1rem .55rem 0rem 0;
 }
 
@@ -1942,7 +1943,7 @@ top: -35px;
   .paged .main-header,
   .home-template .main-header{
     text-align: left;
-    padding: 2rem 0 1.5rem 4rem;
+    padding: 2rem 4rem 1.5rem 4rem;
     position:relative;
     display: block;
   }

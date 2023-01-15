@@ -720,6 +720,15 @@ aside.note:before{
   margin-right:1.5rem;
 }
 
+.logo-icon {
+  display: inline-block;
+  float: right;
+  margin-top: 0;
+  font-size: 1.3em;
+  color: #444;
+  margin-left: 5px;
+}
+
 .home-template .main-header--content,
 .paged .main-header--content{
   padding-left: 0;
@@ -1930,6 +1939,10 @@ top: -35px;
     display: block;
     font-size:2.6667rem;
     width: 100%;
+  }
+
+  .logo-icon {
+    float: left;
   }
 
   .page-description{
